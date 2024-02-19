@@ -8,4 +8,4 @@ Execute by exec autoexec.cfg in CS2 Console
 
 -nojoy -freq 144 -w 1440 -h 1080 -fullscreen
 
-I'm playing 4:3 Scretched (1440x1080) - on ASUS VG249Q1A 1980x1080 24" 165Hz Monitor.
+I'm playing 4:3 Scretched (1440x1080) with ASUS VG249Q1A 1980x1080 24" 165Hz Monitor.
