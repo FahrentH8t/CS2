@@ -1,6 +1,6 @@
 # [NUT]'s CS2 CFG
 
-Put autoexec.cfg in <YOURDRIVE>:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg
+Put autoexec.cfg in <<YOURDRIVE>>:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg
 Execute by exec autoexec.cfg in CS2 Console
 
 ## Launch Options
